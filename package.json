@@ -1,0 +1,21 @@
+{
+  "name": "fstvl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koebrich/fstvl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koebrich/fstvl/issues"
+  },
+  "homepage": "https://github.com/koebrich/fstvl#readme"
+}
